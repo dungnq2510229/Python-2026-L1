@@ -1,0 +1,12 @@
+1. Run Git Bash
+2. cd (folder path) (Use / instead of \)
+3. git init (otherwise an error will appear after using git add) (Must once)
+4. git add (name of the file)
+5. git remote add origin (example) (https://github.com/dungnq2510229/Python-2026-L1) or your GitHub URL
+6. git remote -v
+7. git push -u origin master
+
+Optional
+run "ls" to check which files are in the designated folder
+(Remove the ")
+run "pwd" to check which folder are we working
